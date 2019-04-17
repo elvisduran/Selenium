@@ -22,8 +22,9 @@ public class exercise4 {
 		 System.out.println(strName);
 		
 		 // Click the link
-		 driver.findElement(By.linkText("linkTest")).click();
-		
+		 driver.findElement(By.linkText("Link Test")).click();
+
+		 
 	}
 
 }
